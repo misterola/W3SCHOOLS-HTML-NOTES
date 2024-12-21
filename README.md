@@ -1,15 +1,15 @@
 # W3SCHOOLS--HTML Tutorial-NOTES 
 ## Date 12/30/2020
 
-This repository summarizes the key things that I learned from the w3schools online HTML tutorials. 
-> Please see: https://www.w3schools.com/html/   for the sources of all the information contained herein. 
+This repository summarizes my notes from the w3schools online HTML tutorials. This is in no way a replacement
+for the course. Instead, it represents my notes organized in a way that makes life easier.
+> Please see: https://www.w3schools.com/html/ for a detailed coverage of the topics contained herein. 
 
 
 ## Course Outline
 
 ## **Part One**
 * HTML Tutorial<a name="Homepage"></a>
-* HTML HOME
 * [Html Introduction](#html-introduction)
 * [HTML Editors](#html-editors)
 * [HTML Basics](#html-basics)
